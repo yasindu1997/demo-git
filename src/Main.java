@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         int x=90;
         String name = "Yasindu";
+
     }
 }
